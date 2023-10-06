@@ -1,6 +1,8 @@
 # Foodlover Restaurant Website
 ## [Check it out live](https://foodlover.vercel.app)
 
+![preview img](/preview.png)
+
 ## Project Description
 
 The "Foodlover" Restaurant Website is a web development project aimed at creating an online platform for a fictional restaurant called "Foodlover." This website has been designed and developed using HTML and CSS to provide an attractive and user-friendly online presence for the restaurant.
@@ -48,5 +50,3 @@ In the future, the "Foodlover" Restaurant Website can be enhanced by adding feat
 ## Conclusion
 
 The "Foodlover" Restaurant Website is a successful project that has created a visually appealing and functional online platform for the fictional restaurant "Foodlover." It aims to attract potential customers, provide them with essential information, and showcase the restaurant's offerings in an enticing manner.
-
-![preview img](/preview.png)
